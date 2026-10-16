@@ -113,6 +113,7 @@ Agentic commerce is AI agents finding products, paying for services and checking
 - [UCP Schema](https://github.com/Universal-Commerce-Protocol/ucp-schema) - Validator that checks UCP payloads against the protocol schemas.
 
 ### x402 and MPP
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) - Pay-per-call browser automation and stealth scraping over x402, settled in Nano (XNO); no account or API key.
 
 - [a2a-x402-typescript](https://github.com/dabit3/a2a-x402-typescript) - TypeScript port of the A2A x402 extension for paid calls between agents.
 - [AgentCash Router](https://github.com/Merit-Systems/agentcash-router) - Server framework for building APIs that accept x402 and MPP payments.
